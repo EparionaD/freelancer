@@ -61,5 +61,17 @@
     width: 100%;
     height: auto;
 }
-
+.estrella1 span{
+    color: black;
+    font-size: 2em;
+}
+.nombre-portafolio{
+    text-align: center;
+    margin-top: 6em;
+}
+.nombre-portafolio div p{
+    color: black;
+    font-size: 3em;
+    font-weight: bolder;
+}
 /* Fin portafolio */
