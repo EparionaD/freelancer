@@ -147,3 +147,27 @@
     border-radius: 5px;
 }
 /* Fin Contacto */
+/* Inicio Footer */
+.pie-pagina{
+    background-color: #2E3F51;
+    text-align: center;
+    color: white;
+}
+.creador{
+    color: #18BB9C;
+}
+.pie-titulo h2{
+    margin: 1em 0;
+}
+.pie-titulo div span{
+    color: white;
+    font-size: 2em;
+    margin: 0 .2em;
+}
+.pie-contenido{
+    margin-bottom: 2em;
+}
+.pie-copy{
+    padding: 1em 0;
+}
+/* Fin Footer */
