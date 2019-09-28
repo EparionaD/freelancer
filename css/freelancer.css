@@ -1,3 +1,51 @@
+*{
+    font-family: 'Ubuntu', sans-serif;
+}
+.cabecera{
+    background-color: #2E3F51;
+    position: fixed;
+    z-index: 100;
+}
+.titulo h1{
+    color: white;
+    padding-left: 4em;
+}
+.menu{
+    padding-top: 1.7em;
+}
 .menu li{
     display: inline-block;
+    padding-right: 1em;
+}
+.menu ul li a{
+    color: white;
+    font-weight: bolder;
+}
+.cabecera-imagen{
+    background-color: #18BB9C;
+}
+.imagen{
+    text-align: center;
+    padding: 10em 0;
+}
+.imagen div{
+    margin-bottom: 2em;
+}
+.imagen h2{
+    color: white;
+    font-size: 4.5em;
+}
+.imagen p{
+    color: white;
+    font-size: 1.8em;
+}
+.estrella{
+    margin: 2em 0;
+}
+.estrella span{
+    color: white;
+    font-size: 2em;
+}
+.icon-star-full{
+    margin: 0 .3em;
 }
