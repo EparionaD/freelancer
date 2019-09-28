@@ -105,6 +105,9 @@
 /* Fin about */
 
 /* Inicio Contacto */
+.contacto{
+    padding: 5em 0;
+}
 .contacto-nombre{
     text-align: center;
 }
@@ -113,5 +116,34 @@
     font-size: 3em;
     font-weight: bold;
 }
-
+.formulario{
+    text-align: left;
+}
+.formulario-caja{
+    width: 100%;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 1px;
+    border-left-width: 0;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: solid;
+    border-left-style: none;
+    font-size: 2em;
+    margin: 0.5em 0;
+}
+.formulario-caja::placeholder{
+    font-size: .5em;
+    color: gray;
+    font-weight: bold;
+}
+.formulario-boton{
+    padding: 1em;
+    color: white;
+    font-weight: bold;
+    background-color: #18BB9C;
+    font-size: 1em;
+    border: 1px solid #18BB9C;
+    border-radius: 5px;
+}
 /* Fin Contacto */
