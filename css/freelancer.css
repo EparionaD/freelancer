@@ -103,3 +103,15 @@
     border: 2px solid white;
 }
 /* Fin about */
+
+/* Inicio Contacto */
+.contacto-nombre{
+    text-align: center;
+}
+.contacto-nombre div p{
+    color: black;
+    font-size: 3em;
+    font-weight: bold;
+}
+
+/* Fin Contacto */
