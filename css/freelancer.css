@@ -75,3 +75,31 @@
     font-weight: bolder;
 }
 /* Fin portafolio */
+
+/* Inicio about */
+.about{
+    background-color: #18BB9C;
+    text-align: center;
+    padding: 5em 0;
+}
+.about-titulo p{
+    color: white;
+    font-size: 3.5em;
+    font-weight: bold;
+}
+.about-texto{
+    padding: 0 20em;
+    margin-bottom: 2em;
+}
+.about-texto div p{
+    color: white;
+    font-size: 1.3em;
+}
+.about-boton a{
+    color: white;
+    font-size: 1.2em;
+    padding: 1em 2em;
+    border-radius: 5px;
+    border: 2px solid white;
+}
+/* Fin about */
